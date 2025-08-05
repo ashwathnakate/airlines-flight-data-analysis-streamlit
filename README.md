@@ -1,6 +1,8 @@
 
 # ✈️ Airlines Flights Data Analysis Dashboard
 
+Deployment can be found at 👉 https://airlines-flight-data-analysis.streamlit.app/
+
 This project presents a professional Streamlit dashboard built for analyzing airline flights data. It provides interactive and insightful visualizations to uncover trends, understand flight pricing, and support strategic decisions in the airline industry.
 
 ---
